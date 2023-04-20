@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Hi Friends Latest Devops Projects Uploaded Daily Based . LiKe & Share this video & also Subscribe";
+		return "Hi this is pruthvi i have completed my assessment which was given to me";
 	}
 
 	public static void main(String[] args) {
