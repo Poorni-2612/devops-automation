@@ -14,7 +14,7 @@ pipeline {
         stage('Build docker image'){
             steps{
                 script{
-                    sh 'docker build -t pruthvi1902/kubernetes .'
+                    sh 'docker build -t Poorni-2612/kubernetes .'
                 }
             }
         }
